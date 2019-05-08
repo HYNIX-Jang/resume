@@ -15,6 +15,8 @@ Spring Boot로 BackEnd API 개발을 주로 합니다.
 
 - Github : https://github.com/HYNIX-Jang
 
+- Github I/O : https://hynix-jang.github.io/
+
 ## 기술
 
 ### Server
