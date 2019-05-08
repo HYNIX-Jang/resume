@@ -19,6 +19,7 @@ Spring Boot로 BackEnd API개발을 주로 합니다.
 - Java 
 - Spring, Spring Boot
 - JPA, MyBatis(iBatis), Spring Security, OAuth2, JWT, Maven(Gradle)
+- Netflix Zuul(API Gateway)
 - Node.js
 - Express
 - Docker
@@ -57,7 +58,7 @@ SI 회사에서 외부에서도 업무보고 및 결재를 웹으로 손쉽게 �
 - 기간 : 2018.06 ~ 2019.02
 - 사용 언어 및 프레임워크: `Java`, `Spring Boot`
 - 주 사용 기술 : `JPA`, `MyBatis`, `Spring Security`, `JWT`
-- 사용 환경 : `Ubuntu 16.04`, `Jenkins`, `Maven`, `GitLab`, `Slack`, `Swagger-UI`
+- 사용 환경 : `Ubuntu 16.04`, `MySQL`, `Jenkins`, `Maven`, `GitLab`, `Slack`, `Swagger-UI`
 
 - 주요 역할 
   - Backend 개발 담당
