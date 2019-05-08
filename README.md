@@ -1,9 +1,7 @@
 # ABOUT ME
-
-이름: 장국영
-
 <img src="https://github.com/HYNIX-Jang/resume/blob/master/me.png" width="170" height="224"/>
 
+이름: 장국영
 
 혼자 하는것 보다 여럿이 함께 만드는 것을 즐기는 저는 장국영입니다.
 Spring Boot로 BackEnd API개발을 주로 합니다.
