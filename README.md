@@ -1,4 +1,5 @@
 # ABOUT ME
+<img src="https://github.com/HYNIX-Jang/resume/blob/master/me.png" width="150" height="224"/>
 
 이름: 장국영
 
@@ -10,6 +11,7 @@ Spring Boot로 BackEnd API개발을 주로 합니다.
 - Email : hynix_1@hynixlabs.com
 
 - Github : https://github.com/HYNIX-Jang
+
 
 ## 기술
 
